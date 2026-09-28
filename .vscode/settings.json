@@ -1,0 +1,10 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "line",
+    "editor.snippets.codeActions.enabled": true,
+   "editor.semanticHighlighting.enabled": "configuredByTheme",
+    "editor.selectionHighlight": false,
+    "cmake.allowCommentsInPresetsFile": true
+}

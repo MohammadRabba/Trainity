@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "lKdsfbPgIlI=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\moham\\Downloads\\Trainity-main\\Trainity-main\\OriginalTraining.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.Windows.ImplementationLibrary (>= 1.0.220201.1)' for 'net8.0'. PackageSourceMapping is enabled, the following source(s) were not considered: Microsoft Visual Studio Offline Packages, nuget.org.",
+      "projectPath": "C:\\Users\\moham\\Downloads\\Trainity-main\\Trainity-main\\OriginalTraining.csproj",
+      "filePath": "C:\\Users\\moham\\Downloads\\Trainity-main\\Trainity-main\\OriginalTraining.csproj",
+      "libraryId": "Microsoft.Windows.ImplementationLibrary",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
